@@ -1,6 +1,6 @@
 # Awesome MCP Servers
 
-> Full Markdown catalog of 464 hand-curated Model Context Protocol (MCP) servers. A shorter index lives at https://mcphq.org/llms.txt. The same records are published as JSON at https://mcphq.org/api/servers.json.
+> Full Markdown catalog of 465 hand-curated Model Context Protocol (MCP) servers. A shorter index lives at https://mcphq.org/llms.txt. The same records are published as JSON at https://mcphq.org/api/servers.json.
 
 This file lists every server in the catalog. Descriptions are the catalog's one-sentence summaries, not the upstream README. `Official: yes` means the MCP project or the named provider backs the server. Remote endpoints are included only when the catalog lists an SSE or streamable HTTP URL.
 
@@ -5199,6 +5199,18 @@ Search thousands of MCP servers, agents, and CLI tools by capability.
 - Official: no
 - Tags: discovery, search, registry
 - Category: Utilities and Examples
+
+### AlertForge
+
+Plan, create, and export stream overlays, AI alerts, and transparent videos through a hosted service requiring an active paid subscription and generation credits.
+
+- URL: https://alertforge.ai/docs/agents
+- Language: TypeScript
+- Provider: AlertForge
+- Official: yes
+- Tags: streaming, design, video, oauth
+- Category: Utilities and Examples
+- Streamable HTTP endpoint: https://alertforge.ai/api/mcp
 
 ### Anyquery
 
